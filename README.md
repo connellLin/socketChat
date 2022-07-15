@@ -1,2 +1,1 @@
-# socketChat
-vue3+vite+ts+websocket demo
+# socketChat Node服务端项目
